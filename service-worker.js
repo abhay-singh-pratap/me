@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/abhay-singh-pratap/profile.github.io/precache-manifest.43e6f1c60cc2cfd5cfb4606cf29d469f.js"
+  "/profile.github.io/precache-manifest.72f31e353a257a07a1f694413b93fb74.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/abhay-singh-pratap/profile.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/profile.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

@@ -1,13 +1,13 @@
 {
-  "main.css": "/abhay-singh-pratap/profile.github.io/static/css/main.fabc08b8.chunk.css",
-  "main.js": "/abhay-singh-pratap/profile.github.io/static/js/main.5b64b151.chunk.js",
-  "main.js.map": "/abhay-singh-pratap/profile.github.io/static/js/main.5b64b151.chunk.js.map",
-  "runtime~main.js": "/abhay-singh-pratap/profile.github.io/static/js/runtime~main.b18d2018.js",
-  "runtime~main.js.map": "/abhay-singh-pratap/profile.github.io/static/js/runtime~main.b18d2018.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/abhay-singh-pratap/profile.github.io/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/abhay-singh-pratap/profile.github.io/static/js/2.5ec21d73.chunk.js.map",
-  "index.html": "/abhay-singh-pratap/profile.github.io/index.html",
-  "precache-manifest.43e6f1c60cc2cfd5cfb4606cf29d469f.js": "/abhay-singh-pratap/profile.github.io/precache-manifest.43e6f1c60cc2cfd5cfb4606cf29d469f.js",
-  "service-worker.js": "/abhay-singh-pratap/profile.github.io/service-worker.js",
-  "static/css/main.fabc08b8.chunk.css.map": "/abhay-singh-pratap/profile.github.io/static/css/main.fabc08b8.chunk.css.map"
+  "main.css": "/profile.github.io/static/css/main.fabc08b8.chunk.css",
+  "main.js": "/profile.github.io/static/js/main.7d7ec36d.chunk.js",
+  "main.js.map": "/profile.github.io/static/js/main.7d7ec36d.chunk.js.map",
+  "runtime~main.js": "/profile.github.io/static/js/runtime~main.9ed9657b.js",
+  "runtime~main.js.map": "/profile.github.io/static/js/runtime~main.9ed9657b.js.map",
+  "static/js/2.5ec21d73.chunk.js": "/profile.github.io/static/js/2.5ec21d73.chunk.js",
+  "static/js/2.5ec21d73.chunk.js.map": "/profile.github.io/static/js/2.5ec21d73.chunk.js.map",
+  "index.html": "/profile.github.io/index.html",
+  "precache-manifest.72f31e353a257a07a1f694413b93fb74.js": "/profile.github.io/precache-manifest.72f31e353a257a07a1f694413b93fb74.js",
+  "service-worker.js": "/profile.github.io/service-worker.js",
+  "static/css/main.fabc08b8.chunk.css.map": "/profile.github.io/static/css/main.fabc08b8.chunk.css.map"
 }
