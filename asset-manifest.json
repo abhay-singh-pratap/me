@@ -1,13 +1,13 @@
 {
-  "main.css": "/me/static/css/main.fabc08b8.chunk.css",
-  "main.js": "/me/static/js/main.8dd3f023.chunk.js",
-  "main.js.map": "/me/static/js/main.8dd3f023.chunk.js.map",
-  "runtime~main.js": "/me/static/js/runtime~main.1caf0789.js",
-  "runtime~main.js.map": "/me/static/js/runtime~main.1caf0789.js.map",
-  "static/js/2.5ec21d73.chunk.js": "/me/static/js/2.5ec21d73.chunk.js",
-  "static/js/2.5ec21d73.chunk.js.map": "/me/static/js/2.5ec21d73.chunk.js.map",
-  "index.html": "/me/index.html",
-  "precache-manifest.5c39c114cde9946fdd7d2a04f0e0d492.js": "/me/precache-manifest.5c39c114cde9946fdd7d2a04f0e0d492.js",
-  "service-worker.js": "/me/service-worker.js",
-  "static/css/main.fabc08b8.chunk.css.map": "/me/static/css/main.fabc08b8.chunk.css.map"
+  "main.css": "/abhay-singh-pratap/profile.github.io/static/css/main.fabc08b8.chunk.css",
+  "main.js": "/abhay-singh-pratap/profile.github.io/static/js/main.5b64b151.chunk.js",
+  "main.js.map": "/abhay-singh-pratap/profile.github.io/static/js/main.5b64b151.chunk.js.map",
+  "runtime~main.js": "/abhay-singh-pratap/profile.github.io/static/js/runtime~main.b18d2018.js",
+  "runtime~main.js.map": "/abhay-singh-pratap/profile.github.io/static/js/runtime~main.b18d2018.js.map",
+  "static/js/2.5ec21d73.chunk.js": "/abhay-singh-pratap/profile.github.io/static/js/2.5ec21d73.chunk.js",
+  "static/js/2.5ec21d73.chunk.js.map": "/abhay-singh-pratap/profile.github.io/static/js/2.5ec21d73.chunk.js.map",
+  "index.html": "/abhay-singh-pratap/profile.github.io/index.html",
+  "precache-manifest.43e6f1c60cc2cfd5cfb4606cf29d469f.js": "/abhay-singh-pratap/profile.github.io/precache-manifest.43e6f1c60cc2cfd5cfb4606cf29d469f.js",
+  "service-worker.js": "/abhay-singh-pratap/profile.github.io/service-worker.js",
+  "static/css/main.fabc08b8.chunk.css.map": "/abhay-singh-pratap/profile.github.io/static/css/main.fabc08b8.chunk.css.map"
 }
