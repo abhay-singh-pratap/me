@@ -15,7 +15,7 @@ export default class About extends Component {
                     <h2 className="colorlib-heading">Who Am I?</h2>
                     <p>I am an experienced IT professional with around 2 year of experience in Software Services and Product Development in agile environment. 
                     I have a working experience with different clients from USA, Japan & India.
-                    I am also a computer grad student from Visvesvaraya Technological University with Computer Science and Engineering as my major. Currently I am pursuing Post Graducation  from International Institute of Information Technology Bangalore with Data Science as my major.</p>
+                    I am a computer grad student from AKTU with Computer Science and Engineering as my major.</p>
                     </div>
                 </div>
                 </div>

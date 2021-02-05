@@ -34,7 +34,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Certification | Orcale JAVA 8 <span> December 2016</span></h2>
+                        <h2>Certification | Oracle JAVA 8 <span> December 2016</span></h2>
                         <p>I have done certification in Orcale JAVA 8 OCJA and OCJP.</p>
                          </div>
                     </div>
